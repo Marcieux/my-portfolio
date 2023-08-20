@@ -20,6 +20,8 @@ export const CardLeft = styled.div`
   justify-self: center;
   img {
     height: 268px;
+    width: auto;
+    object-fit: cover;
   }
 `;
 
