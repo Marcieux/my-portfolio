@@ -79,8 +79,6 @@ export const HeroRight = styled.div`
 `;
 
 export const Image = styled.img`
-  height: 400px;
-  width: auto;
   object-fit: cover;
   border-radius: 100%;
   background-color: gray;
