@@ -10,6 +10,14 @@ export const ProjectList = [
   },
 
   {
+    img: "/blog-ninja.jpg",
+    title: "Ninja Blog",
+    description: "Hosts the source code for our dynamic and feature-rich blog website, developed using Node.js, Express.js, EJS (Embedded JavaScript), and MongoDB.",
+    tech_stack: ["Node.js", "MongoDB", "EJS"],
+    github_url: "https://github.com/Marcieux/blog-ninja",
+  },
+
+  {
     img: "/monsters-rolodex.jpg",
     title: "Monsters Rolodex",
     description:
@@ -75,6 +83,12 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
   },
+
+  {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+    name: "Express",
+  },
+
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
     name: "Firebase",
