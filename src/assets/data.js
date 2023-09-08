@@ -15,7 +15,7 @@ export const ProjectList = [
     description: "This blog website showcases the implementation of cutting-edge technologies such as Node.js, Express.js, EJS (Embedded JavaScript), and MongoDB to deliver a dynamic and feature-rich experience",
     tech_stack: ["Node.js", "MongoDB", "EJS"],
     github_url: "https://github.com/Marcieux/blog-ninja",
-    demo_url: "",g
+    demo_url: "",
   },
 
   {
