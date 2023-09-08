@@ -12,9 +12,10 @@ export const ProjectList = [
   {
     img: "/blog-ninja.jpg",
     title: "Ninja Blog",
-    description: "Hosts the source code for our dynamic and feature-rich blog website, developed using Node.js, Express.js, EJS (Embedded JavaScript), and MongoDB.",
+    description: "This blog website showcases the implementation of cutting-edge technologies such as Node.js, Express.js, EJS (Embedded JavaScript), and MongoDB to deliver a dynamic and feature-rich experience",
     tech_stack: ["Node.js", "MongoDB", "EJS"],
     github_url: "https://github.com/Marcieux/blog-ninja",
+    demo_url: "",g
   },
 
   {
