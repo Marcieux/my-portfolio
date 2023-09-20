@@ -1,12 +1,31 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/netflix-clone.jpg",
+    title: "Netflix Clone",
+    description: "A Netflix clone powered by the TMDB API, developed and deployed using ReactJS, Firebase, and Tailwind CSS, showcasing your favorite popular TV shows and movies.",
+    tech_stack: ["React", "Firebase", "Tailwind"],
+    github_url: "https://github.com/Marcieux/netflix-clone",
+    demo_url: "https://netflix-clone-nu-jet.vercel.app/",
+  },
+
+  {
     img: "/crwn-clothing.jpg",
     title: "CRWN Clothing",
     description: "A website for an online clothing store built with technologies such as React, React Router, Context API, and other components.",
     tech_stack: ["React", "Firebase", "SCSS"],
     github_url: "https://github.com/Marcieux/ecommerce-crwn-clothing",
     demo_url: "https://ecommerce-crwn-clothing.vercel.app/",
+  },
+
+  {
+    img: "/block-vote.jpg",
+    title: "Bloc-Vote",
+    description:
+      "An E-Voting System built using Blockchain Technology and ReactJS emerges as a trailblazing solution for ensuring elections' security and transparency",
+    tech_stack: ["React", "Solidity", "CSS"],
+    github_url: "https://github.com/Marcieux/Block-Vote",
+    demo_url: "",
   },
 
   {
@@ -28,15 +47,6 @@ export const ProjectList = [
     demo_url: "https://monsters-rolodex-puce.vercel.app/",
   },
 
-  {
-    img: "/block-vote.jpg",
-    title: "Bloc-Vote",
-    description:
-      "An E-Voting System built using Blockchain Technology and ReactJS emerges as a trailblazing solution for ensuring elections' security and transparency",
-    tech_stack: ["React", "Solidity", "CSS"],
-    github_url: "https://github.com/Marcieux/Block-Vote",
-    demo_url: "",
-  },
 
   {
     img: "/nachang-cafe.jpg",
@@ -73,6 +83,12 @@ export const stackList = [
   {
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
     name: "SCSS",
+  },
+
+  {
+    
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    name: "Tailwind CSS",
   },
 
   {

@@ -19,7 +19,7 @@ export const Card = styled.div`
 export const CardLeft = styled.div`
   justify-self: center;
   img {
-    height: 268px;
+    height: 100%;
     width: auto;
     object-fit: cover;
   }
