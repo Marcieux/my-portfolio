@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "/gym-app.jpg",
     title: "Evo Gym",
     description: "A state-of-the-art gym app, powered by TypeScript, Tailwind CSS, and React JS. It offers a seamless user experience, a responsive design that looks great on any device, and a wide range of features to help users stay on track and achieve their fitness goals.",
-    tech_stack: ["React", "Firebase", "Tailwind"],
+    tech_stack: ["TypeScript", "React", "Tailwind"],
     github_url: "https://github.com/Marcieux/gym-app",
     demo_url: "https://gym-app-azure.vercel.app/",
   },

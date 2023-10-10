@@ -80,8 +80,31 @@ export const HeroRight = styled.div`
 
 export const Image = styled.img`
   object-fit: cover;
-  border-radius: 100%;
-  background-color: gray;
+  animation: animate 8s ease-in-out infinite;
+  transition: all 1s ease-in-out;
+  background-image: linear-gradient(to bottom, #666666, #888085, #b09b9c, #d3b9ab, #e7debe);
+  border-radius: 47% 53% 34% 66% / 45% 14% 86% 55%;
+
+  @keyframes animate {
+    0% {
+    }
+    
+    25% {
+      border-radius: 87% 13% 70% 30% / 30% 30% 70% 70%;
+    }
+
+    50% {
+      border-radius: 41% 59% 26% 74% / 75% 30% 70% 25%;
+    }
+  
+    75% {
+      border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+    }
+
+    100% {
+      border-radius: 47% 53% 34% 66% / 45% 14% 86% 55%;
+    }
+  }
 `;
 
 const ScrollAnimation = keyframes`
