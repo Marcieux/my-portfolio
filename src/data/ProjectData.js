@@ -1,6 +1,15 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/gym-app.jpg",
+    title: "Evo Gym",
+    description: "A state-of-the-art gym app, powered by TypeScript, Tailwind CSS, and React JS. It offers a seamless user experience, a responsive design that looks great on any device, and a wide range of features to help users stay on track and achieve their fitness goals.",
+    tech_stack: ["React", "Firebase", "Tailwind"],
+    github_url: "https://github.com/Marcieux/gym-app",
+    demo_url: "https://gym-app-azure.vercel.app/",
+  },
+
+  {
     img: "/netflix-clone.jpg",
     title: "Netflix Clone",
     description: "A Netflix clone powered by the TMDB API, developed and deployed using ReactJS, Firebase, and Tailwind CSS, showcasing your favorite popular TV shows and movies.",
@@ -75,6 +84,12 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
     name: "JavaScript",
   },
+  
+  {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    name: "TypeScript",
+  },
+
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     name: "ReactJS",
