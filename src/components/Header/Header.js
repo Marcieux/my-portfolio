@@ -1,5 +1,5 @@
 import React from "react";
-import PDF from '../../assets/resume/DORIA_RESUME.pdf'
+import PDF from '../../assets/resume/CV_DORIA.pdf'
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 
 const Header = ({ toggle }) => {

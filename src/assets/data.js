@@ -1,6 +1,15 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/store-management.jpg",
+    title: "iFind Store",
+    description: "Your store management that you can actually add, update or edit and delete a store.",
+    tech_stack: ["JSON Server", "React", "Tailwind"],
+    github_url: "https://github.com/Marcieux/store-management",
+    demo_url: "",
+  },
+
+  {
     img: "/gym-app.jpg",
     title: "Evo Gym",
     description: "A state-of-the-art gym app, powered by TypeScript, Tailwind CSS, and React JS. It offers a seamless user experience, a responsive design that looks great on any device, and a wide range of features to help users stay on track and achieve their fitness goals.",

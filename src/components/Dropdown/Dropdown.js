@@ -2,7 +2,7 @@ import React from "react";
 import { FaTimes } from "react-icons/fa";
 import styled from "@emotion/styled";
 import { Link as ScrollLink } from "react-scroll";
-import PDF from '../../assets/resume/DORIA_RESUME.pdf'
+import PDF from '../../assets/resume/CV_DORIA.pdf'
 
 const SiderBar = styled.div`
   background: #151418;
