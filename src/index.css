@@ -17,11 +17,12 @@ body {
 }
 
 main {
-  background: #151418;
-  background-image: url('../public/blob-haikei.svg');
+  background-color: #D0BDAB;
+  /* background-image: url('../public/blob-haikei.svg'); */
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
+  min-height: 100vh;
 }
 
 a {
@@ -87,19 +88,19 @@ video {
 .PrimaryBtn {
   padding: 12px 20px;
   border: none;
-  background: rgb(57, 134, 250);
+  background: rgb(18, 39, 71); 
   color: #f6f6f6;
 }
 
 .SecondaryBtn{
   padding: 10px 18px;
-  border: 2px solid rgb(57, 134, 250);
+  border: 2px solid rgb(18, 39, 71);
   color: #010606;
   margin-right: 1rem;
 }
 
 .PrimaryBtn:hover {
-  background: rgb(18, 111, 250);
+  background: rgb(6, 40, 92);
 }
 
 .SecondaryBtn:hover {

@@ -1,21 +1,13 @@
 // --------------------------------------- Project List
 export const ProjectList = [
-  {
-    img: "/store-management.jpg",
-    title: "iFind Store",
-    description: "Your store management that you can actually add, update or edit and delete a store.",
-    tech_stack: ["JSON Server", "React", "Tailwind"],
-    github_url: "https://github.com/Marcieux/store-management",
-    demo_url: "",
-  },
 
   {
-    img: "/gym-app.jpg",
-    title: "Evo Gym",
-    description: "A state-of-the-art gym app, powered by TypeScript, Tailwind CSS, and React JS. It offers a seamless user experience, a responsive design that looks great on any device, and a wide range of features to help users stay on track and achieve their fitness goals.",
-    tech_stack: ["TypeScript", "React", "Tailwind"],
-    github_url: "https://github.com/Marcieux/gym-app",
-    demo_url: "https://gym-app-azure.vercel.app/",
+    img: "/rome-fit.jpg",
+    title: "Rome Fitness App",
+    description: "Introducing a cutting-edge gym app built with React JS and Tailwind. It delivers an intuitive user experience, boasts a responsive design that looks fantastic on any device, and includes a comprehensive set of features to help users stay motivated and reach their fitness goals.",
+    tech_stack: ["ReactJS", "Tailwind"],
+    github_url: "https://github.com/Marcieux/rome-fit",
+    demo_url: "https://rome-fit-three.vercel.app/",
   },
 
   {
@@ -43,15 +35,6 @@ export const ProjectList = [
       "An E-Voting System built using Blockchain Technology and ReactJS emerges as a trailblazing solution for ensuring elections' security and transparency",
     tech_stack: ["React", "Solidity", "CSS"],
     github_url: "https://github.com/Marcieux/Block-Vote",
-    demo_url: "",
-  },
-
-  {
-    img: "/blog-ninja.jpg",
-    title: "Ninja Blog",
-    description: "This blog website showcases the implementation of cutting-edge technologies such as Node.js, Express.js, EJS (Embedded JavaScript), and MongoDB to deliver a dynamic and feature-rich experience",
-    tech_stack: ["Node.js", "MongoDB", "EJS"],
-    github_url: "https://github.com/Marcieux/blog-ninja",
     demo_url: "",
   },
 
@@ -93,11 +76,6 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
     name: "JavaScript",
   },
-  
-  {
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-    name: "TypeScript",
-  },
 
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
@@ -111,13 +89,18 @@ export const stackList = [
 
   {
     
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
     name: "Tailwind CSS",
   },
 
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
+  },
+
+  {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg",
+    name: "SourceTree",
   },
 
   {

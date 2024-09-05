@@ -82,7 +82,7 @@ export const Image = styled.img`
   object-fit: cover;
   animation: animate 8s ease-in-out infinite;
   transition: all 1s ease-in-out;
-  background-image: linear-gradient(to bottom, #666666, #888085, #b09b9c, #d3b9ab, #e7debe);
+  background-image: linear-gradient(to bottom, #666666, #888085, #b09b9c, #d3b9ab, #D0BDAB);
   border-radius: 47% 53% 34% 66% / 45% 14% 86% 55%;
 
   @keyframes animate {
