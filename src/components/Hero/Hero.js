@@ -46,6 +46,8 @@ function Hero() {
                     500,
                     'A Front-End Web Developer.',
                     1000,
+                     'Aspring Full Stack Web Developer.',
+                    1000,
                     'A BSCS graduate.',
                     // 'I design and code beautifully simple things, and I love what I do.',
                     1000,
