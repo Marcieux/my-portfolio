@@ -1,11 +1,18 @@
 // --------------------------------------- Project List
 export const ProjectList = [
-
+  {
+    img: "/green-leaf.jpg",
+    title: "Green Leaf Project",
+    description: "Greenleaf is a sleek and intuitive e-commerce platform built specifically for plant lovers.",
+    tech_stack: ["ReactJS", "Tailwind", "API", "axios", "FakerJS", "SwiperJS", "Context API"],
+    github_url: "https://github.com/Marcieux/green-leaf",
+    demo_url: "https://green-leaf-nu.vercel.app/",
+  },
   {
     img: "/rome-fit.jpg",
     title: "Rome Fitness App",
     description: "Introducing a cutting-edge gym app built with React JS and Tailwind. It delivers an intuitive user experience, boasts a responsive design that looks fantastic on any device, and includes a comprehensive set of features to help users stay motivated and reach their fitness goals.",
-    tech_stack: ["ReactJS", "Tailwind"],
+    tech_stack: ["ReactJS", "Tailwind", "axios"],
     github_url: "https://github.com/Marcieux/rome-fit",
     demo_url: "https://rome-fit-three.vercel.app/",
   },
@@ -14,7 +21,7 @@ export const ProjectList = [
     img: "/netflix-clone.jpg",
     title: "Netflix Clone",
     description: "A Netflix clone powered by the TMDB API, developed and deployed using ReactJS, Firebase, and Tailwind CSS, showcasing your favorite popular TV shows and movies.",
-    tech_stack: ["React", "Firebase", "Tailwind"],
+    tech_stack: ["React", "Firebase", "Tailwind", "RestAPI", "axios"],
     github_url: "https://github.com/Marcieux/netflix-clone",
     demo_url: "https://netflix-clone-nu-jet.vercel.app/",
   },
@@ -23,7 +30,7 @@ export const ProjectList = [
     img: "/crwn-clothing.jpg",
     title: "CRWN Clothing",
     description: "A website for an online clothing store built with technologies such as React, React Router, Context API, and other components.",
-    tech_stack: ["React", "Firebase", "SCSS"],
+    tech_stack: ["React", "Firebase", "SCSS", "Context API", "API"],
     github_url: "https://github.com/Marcieux/ecommerce-crwn-clothing",
     demo_url: "https://ecommerce-crwn-clothing.vercel.app/",
   },
@@ -33,30 +40,9 @@ export const ProjectList = [
     title: "Bloc-Vote",
     description:
       "An E-Voting System built using Blockchain Technology and ReactJS emerges as a trailblazing solution for ensuring elections' security and transparency",
-    tech_stack: ["React", "Solidity", "CSS"],
+    tech_stack: ["React", "Solidity", "CSS", "MetaMask"],
     github_url: "https://github.com/Marcieux/Block-Vote",
     demo_url: "",
-  },
-
-  {
-    img: "/monsters-rolodex.jpg",
-    title: "Monsters Rolodex",
-    description:
-      "A React application that retrieves monster pictures, names, and emails from a REST API endpoint and presents them in the user interface.",
-    tech_stack: ["React", "Rest API", "CSS"],
-    github_url: "https://github.com/Marcieux/monsters-rolodex",
-    demo_url: "https://monsters-rolodex-puce.vercel.app/",
-  },
-
-
-  {
-    img: "/nachang-cafe.jpg",
-    title: "Nachang Cafe",
-    description:
-      "Developed Nachang Cafe's website frontend using thoughtful HTML, CSS and JavaScript for improved user interaction.",
-    tech_stack: ["HTML", "CSS", "Javascript"],
-    github_url: "https://github.com/Marcieux/nachang-cafe",
-    demo_url: "https://nachang-cafe.vercel.app/",
   },
   
 ];
