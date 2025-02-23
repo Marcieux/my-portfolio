@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "Angat D2",
     description: "Barangay Management & Hierarchical Governance System is a MERN stack web application designed to streamline governance and organizational management at the barangay and municipal levels.",
     tech_stack: ["ReactJS", "Tailwind", "RestAPI", "axios", "Context API", "ExpressJS", "MongoDB" ],
-    github_url: ["https://github.com/Marcieux/barangay-governance-frontend", "https://github.com/Marcieux/barangay-governance-backend"],
+    github_url: "https://github.com/Marcieux/barangay-governance-frontend",
     demo_url: "https://barangay-governance.vercel.app/",
   },
   {
