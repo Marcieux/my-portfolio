@@ -1,6 +1,14 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/barangay-governance.jpg",
+    title: "Angat D2",
+    description: "Barangay Management & Hierarchical Governance System is a MERN stack web application designed to streamline governance and organizational management at the barangay and municipal levels.",
+    tech_stack: ["ReactJS", "Tailwind", "RestAPI", "axios", "Context API", "ExpressJS", "MongoDB" ],
+    github_url: ["https://github.com/Marcieux/barangay-governance-frontend", "https://github.com/Marcieux/barangay-governance-backend"],
+    demo_url: "https://barangay-governance.vercel.app/",
+  },
+  {
     img: "/green-leaf.jpg",
     title: "Green Leaf Project",
     description: "Greenleaf is a sleek and intuitive e-commerce platform built specifically for plant lovers.",
@@ -97,6 +105,11 @@ export const stackList = [
   {
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
     name: "Express",
+  },
+
+  {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg", 
+    name: "MongoDB",
   },
 
   {
